@@ -25,7 +25,7 @@ I started my proffesional career three years ago, and I worked for various clien
 <!-- ANGULAR -->
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
 <!-- RXJS -->
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://static.wixstatic.com/media/1b14cf_64d1e53f364b45d1beba0b23c7812e8b~mv2.png/v1/fill/w_1171,h_597,al_c/rxjs%20logo.png" alt="rxjs" width="80" height="40"/> </a>
+<a href="https://rxjs.dev/" target="_blank" rel="noreferrer"> <img src="https://static.wixstatic.com/media/1b14cf_64d1e53f364b45d1beba0b23c7812e8b~mv2.png/v1/fill/w_1171,h_597,al_c/rxjs%20logo.png" alt="rxjs" width="80" height="40"/> </a>
 </p>
 <!-- REACTJS -->
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
