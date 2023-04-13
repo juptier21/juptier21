@@ -1,6 +1,6 @@
 ## 🚀 About Me
 
-Hello there 👋, my name is Hamza and I am a web developer.
+Hello World 👋, my name is Hamza and I am a web developer.
 
 I started my proffesional career three years ago, and I worked for various clients from multiple sectors.
 
