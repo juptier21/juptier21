@@ -45,20 +45,24 @@ I started my proffesional career three years ago, and I worked for various clien
 ## 🛠 Tools
 
 <p align="left">
-<!-- GITHUB -->
-<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png" alt="github" width="80" height="40"/> </a>
-<!-- BASH -->
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-<!-- GIT -->
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
 <!-- VS CODE -->
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs code" width="40" height="40"/> </a>
+<!-- GIT -->
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<!-- GITHUB -->
+<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png" alt="github" width="80" height="40"/> </a>
+<!-- GITLAB -->
+<a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa9GHv1u_BilVE6jPa121BNDsR_oS_zNg0PrWT47-X&s" alt="gitlab" width="120" height="40"/></a>
+<!-- BASH -->
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
+<!-- NPM -->
+<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png" alt="vs code" width="60" height="40"/> </a>
+<!-- JENKINS -->
+<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
 <!-- SONARQUBE -->
 <a href="https://docs.sonarqube.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/sonarqube.svg" alt="sonarqube" width="100" height="50"/></a>
 <!-- SONARLINT -->
 <a href="https://www.sonarsource.com/products/sonarlint/" target="_blank" rel="noreferrer"> <img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_e6066c64dded1b1af53469497010e534/sonarlint.png" alt="sonarqube" width="100" height="50"/></a>
-<!-- GITLAB -->
-<a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa9GHv1u_BilVE6jPa121BNDsR_oS_zNg0PrWT47-X&s" alt="gitlab" width="120" height="40"/></a>
 <!-- REDHAT -->
 <a href="https://developers.redhat.com/products/eap/overview" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/JBoss_logo.svg/2560px-JBoss_logo.svg.png" alt="jboss" width="100" height="45"/></a>
 <!-- ENTERPRISE ARCHITECT -->
@@ -78,22 +82,23 @@ I started my proffesional career three years ago, and I worked for various clien
 </p>
 
 ## 💼 Clients
+
 <p align="left">
 -2020 to 2021 <br>
- </p>
+</p>
 <a href="https://www.bper.it/" target="_blank" rel="noreferrer"> <img src="https://www.logosvgpng.com/wp-content/uploads/2021/05/bper-banca-logo-vector.png" alt="bper banca" width="200" height="60"/></a> <br>
 <p align="left">
 -2021 to 2022 <br>
- </p>
-<a href="http://www.avangrid.com/" target="_blank" rel="noreferrer"> <img src="https://mms.businesswire.com/media/20220720005825/en/836153/22/AVANGRID_Logo.jpg" alt="avangrid" width="200" height="60"/></a> <br>
+</p>
+<a href="http://www.avangrid.com/" target="_blank" rel="noreferrer"> <img src="https://gevatheatre.org/wp-content/uploads/2018/11/AvangridLogo.jpg" alt="avangrid" width="200" height="60"/></a> <br>
 <p align="left">
 -Current
- </p>
-<a href="https://www.scottishpower.co.uk/" target="_blank" rel="noreferrer"> <img src="https://event.edie.net/awards/wp-content/uploads/sites/38/2019/07/ScottishPower-logo.jpg" alt="scottish power" width="200" height="60"/></a>
- </p>
+</p>
+<a href="https://www.scottishpower.co.uk/" target="_blank" rel="noreferrer"> <img src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012013/scottish_power.png?itok=L6_9tg1v" alt="scottish power" width="200" height="180"/></a>
+</p>
 
 ## 🔗 Links
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://ma.linkedin.com/in/elkessirehamza)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/elkessirehamza)
 
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/juptier21)
