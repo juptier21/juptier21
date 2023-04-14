@@ -86,15 +86,18 @@ I started my proffesional career three years ago, and I worked for various clien
 <p align="left">
 -2020 to 2021 <br>
 </p>
+<!-- BPER BANCA -->
 <a href="https://www.bper.it/" target="_blank" rel="noreferrer"> <img src="https://www.logosvgpng.com/wp-content/uploads/2021/05/bper-banca-logo-vector.png" alt="bper banca" width="200" height="60"/></a> <br>
 <p align="left">
 -2021 to 2022 <br>
+<!-- AVANGRID -->
 </p>
 <a href="http://www.avangrid.com/" target="_blank" rel="noreferrer"> <img src="https://gevatheatre.org/wp-content/uploads/2018/11/AvangridLogo.jpg" alt="avangrid" width="200" height="60"/></a> <br>
 <p align="left">
 -Current
+<!-- SCOTTISH POWER -->
 </p>
-<a href="https://www.scottishpower.co.uk/" target="_blank" rel="noreferrer"> <img src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012013/scottish_power.png?itok=L6_9tg1v" alt="scottish power" width="200" height="180"/></a>
+<a href="https://www.scottishpower.co.uk/" target="_blank" rel="noreferrer"> <img src="https://ukcontact.center/wp-content/uploads/2017/01/ScottishPower-logo.jpg" alt="scottish power" width="200" height="80"/></a>
 </p>
 
 ## 🔗 Links
