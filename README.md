@@ -6,6 +6,8 @@ I started my proffesional career three years ago, and I worked for various clien
 
 - 📌 **REMOTE WORKER**
 
+- 📢 **Open to work and collaborate**
+
 - 📫 How to reach me: **elkessirehamza@outlook.com**
 
 - 📞 SKYPE: **elkessirehamza**
