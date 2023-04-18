@@ -83,6 +83,18 @@ I started my proffesional career three years ago, and I worked for various clien
 
 ## 🚀 Skills
 
+<p align="left">
+  -Knowledge of responsive design principles and frameworks.
+  -Familiarity with API integration.
+  -Ability to troubleshoot and debug code.
+  -Understanding of user experience (UX) and user interface (UI) design principles.
+  -Problem-solving and analytical skills.
+  -Good attention to details.
+  -Ability to effectivly work as part of large international teams as well as solo squad.
+  -Strong experience in providing great customer service to clients and stackholders.
+  -Passion or continuous learning and keeping up-to-date with the latest technologies and trends in web development.
+</p>
+
 
 ## 💼 Clients
 
