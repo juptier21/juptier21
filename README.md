@@ -1,6 +1,6 @@
-## 🚀 About Me
+## 👋 About Me
 
-Hello World 👋, my name is Hamza and I am a web developer.
+Hello World, my name is Hamza and I am a web developer.
 
 I started my proffesional career three years ago, and I worked for various clients from multiple sectors.
 
@@ -80,6 +80,9 @@ I started my proffesional career three years ago, and I worked for various clien
 <!-- SHAREPOINT -->
 <a href="https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration" target="_blank" rel="noreferrer"> <img src="https://www.illuminancesolutions.com.au/wp-content/uploads/2022/02/MS-Sharepoint-logo-ATMS-web@2x.png" alt="sharepoint" width="180" height="50"/></a>
 </p>
+
+## 🚀 Skills
+
 
 ## 💼 Clients
 
