@@ -92,7 +92,7 @@ I started my proffesional career three years ago, and I worked for various clien
   -Understanding of user experience (UX) and user interface (UI) design principles. <br>
   -Problem-solving and analytical skills. <br>
   -Good attention to details. <br>
-  -Ability to effectivly work as part of large international teams as well as solo squad. <br>
+  -Ability to effectively work as part of large international teams as well as solo squad. <br>
   -Strong experience in providing great customer service to clients and stackholders. <br>
   -Passion for continuous learning and keeping up-to-date with the latest technologies and trends in web development. <br>
 </p>
@@ -104,17 +104,17 @@ I started my proffesional career three years ago, and I worked for various clien
 -2020 to 2021 <br>
 </p>
 <!-- BPER BANCA -->
-&nbsp;<a href="https://www.bper.it/" target="_blank" rel="noreferrer"> <img src="https://www.logosvgpng.com/wp-content/uploads/2021/05/bper-banca-logo-vector.png" alt="bper banca" width="200" height="60"/></a> <br>
+&nbsp; <a href="https://www.bper.it/" target="_blank" rel="noreferrer"> <img src="https://www.logosvgpng.com/wp-content/uploads/2021/05/bper-banca-logo-vector.png" alt="bper banca" width="200" height="60"/></a> <br>
 <p align="left">
 -2021 to 2022 <br>
 <!-- AVANGRID -->
 </p>
-&nbsp;<a href="http://www.avangrid.com/" target="_blank" rel="noreferrer"> <img src="https://gevatheatre.org/wp-content/uploads/2018/11/AvangridLogo.jpg" alt="avangrid" width="200" height="60"/></a> <br>
+&nbsp; <a href="http://www.avangrid.com/" target="_blank" rel="noreferrer"> <img src="https://gevatheatre.org/wp-content/uploads/2018/11/AvangridLogo.jpg" alt="avangrid" width="200" height="60"/></a> <br>
 <p align="left">
 -Current
 <!-- SCOTTISH POWER -->
 </p>
-&nbsp;<a href="https://www.scottishpower.co.uk/" target="_blank" rel="noreferrer"> <img src="https://ukcontact.center/wp-content/uploads/2017/01/ScottishPower-logo.jpg" alt="scottish power" width="200" height="80"/></a>
+&nbsp; <a href="https://www.scottishpower.co.uk/" target="_blank" rel="noreferrer"> <img src="https://ukcontact.center/wp-content/uploads/2017/01/ScottishPower-logo.jpg" alt="scottish power" width="200" height="80"/></a>
 </p>
 
 ## 🔗 Links
