@@ -1,8 +1,8 @@
 ## 👋 About Me
 
-Hello World, my name is Hamza and I am a web developer.
+Hello World, my name is Hamza El Kessire and I am a web developer.
 
-I started my proffesional career three years ago, and I worked for various clients from multiple sectors.
+I started my professional career three years ago, and I worked for various clients from multiple sectors.
 
 - 📌 **REMOTE WORKER**
 
@@ -10,14 +10,14 @@ I started my proffesional career three years ago, and I worked for various clien
 
 - 📫 How to reach me: **elkessirehamza@outlook.com**
 
-- 📞 SKYPE: **elkessirehamza**
+- 📞 Phone: **(212) 06 56 290 603**
 
 - ⚡ Fact: **cats lover**
 
 - 🗺 #DigitalNomad
 
 
-## 💻 Languages
+## 💻 Technologies
 
 <p align="left">
 <!-- TYPESCRIPT -->
@@ -58,7 +58,9 @@ I started my proffesional career three years ago, and I worked for various clien
 <!-- BASH -->
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
 <!-- NPM -->
-<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png" alt="vs code" width="60" height="40"/> </a>
+<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/540px-Npm-logo.svg.png" alt="npm" width="60" height="40"/> </a>
+<!-- POSTMAN -->
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" alt="postman" width="130" height="40"/> </a>
 <!-- JENKINS -->
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
 <!-- SONARQUBE -->
@@ -87,9 +89,10 @@ I started my proffesional career three years ago, and I worked for various clien
 
 <p align="left">
   -Knowledge of responsive design principles and frameworks. <br>
+  -Understanding of user experience (UX) and user interface (UI) design principles. <br>
   -Familiarity with API integration. <br>
   -Ability to troubleshoot and debug code. <br>
-  -Understanding of user experience (UX) and user interface (UI) design principles. <br>
+  -Scrum methodology <br>
   -Problem-solving and analytical skills. <br>
   -Good attention to details. <br>
   -Ability to effectively work as part of large international teams as well as solo squad. <br>
@@ -97,24 +100,66 @@ I started my proffesional career three years ago, and I worked for various clien
   -Passion for continuous learning and keeping up-to-date with the latest technologies and trends in web development. <br>
 </p>
 
+## 🌍 Languages 
+
+<p align="left">
+  
+|         	| Listening 	| Reading 	| Speaking 	| Writing 	|
+|---------	|-----------	|---------	|----------	|---------	|
+| English 	| B2        	| B2      	| B2       	| B2      	|
+| French  	| B1        	| B1      	| B1       	| B1      	|
+| Spanish 	| A2        	| A2      	| A2       	| A2      	|
+  
+</p>
 
 ## 💼 Clients
 
+<!-- BPER BANCA -->
+&nbsp; <a href="https://www.bper.it/" target="_blank" rel="noreferrer"> <img src="https://www.logosvgpng.com/wp-content/uploads/2021/05/bper-banca-logo-vector.png" alt="bper banca" width="200" height="60"/></a>
 <p align="left">
 -2020 to 2021 <br>
 </p>
-<!-- BPER BANCA -->
-&nbsp; <a href="https://www.bper.it/" target="_blank" rel="noreferrer"> <img src="https://www.logosvgpng.com/wp-content/uploads/2021/05/bper-banca-logo-vector.png" alt="bper banca" width="200" height="60"/></a> <br>
-<p align="left">
--2021 to 2022 <br>
+<br>
+  Project: Anticipo Fatturi <br>
+  -Build reactive front end components using Angular Js, HTML 5, and CSS 3 <br>
+  -Debug Angular Js and JavaScript <br>
+  -Interacte with source code using Git, GitLab and Linux terminal <br>
+  -Implement Git Flow <br>
+  -Investigate and solve common bugs and errors <br>
+<br>
 <!-- AVANGRID -->
-</p>
 &nbsp; <a href="http://www.avangrid.com/" target="_blank" rel="noreferrer"> <img src="https://gevatheatre.org/wp-content/uploads/2018/11/AvangridLogo.jpg" alt="avangrid" width="200" height="60"/></a> <br>
 <p align="left">
--Current
-<!-- SCOTTISH POWER -->
+-2021 to 2022 <br>
 </p>
+<br>
+  Projects: CSR, UINET, NYSEG and CMP <br>
+  -Build new micro-frontend applications and migrating legacy apps to Angular v15 <br>
+  -Work and collaborate with large international teams <br>
+  -Transform mockups into reusable code <br>
+  -Develop new user-interfaces with Angular and TypeScript <br>
+  -Refactor and review newly developed code <br>
+  -Work with internal micro-frontend architecture <br>
+<br>
+<!-- SCOTTISH POWER -->
 &nbsp; <a href="https://www.scottishpower.co.uk/" target="_blank" rel="noreferrer"> <img src="https://ukcontact.center/wp-content/uploads/2017/01/ScottishPower-logo.jpg" alt="scottish power" width="200" height="80"/></a>
+<p align="left">
+-2022 -Current
+</p>
+<br>
+  Projects: Call Out Calculator, UKIT Chart Dashboard, Scottish Water, Event Booking <br>
+  -Build new application using TypeScript and Angular 15 <br>
+  -Write unit tests for the whole application <br>
+  -Review code and pull requests with client <br>
+  -Test,build and deploy the application to client's servers <br>
+  -Monitor CI/CD piplines <br>
+  -Fix bugs, code smells and security hotspots detected by SonarQube <br>
+  -Implement test driven development <br>
+  -Particapate in all Scrum events <br>
+  -Maintaine old React applications <br>
+  -Fix incidents reported by the client <br>
+  -Report daily and weekly to product owner and manager <br>
+<br>
 </p>
 
 ## 🔗 Links
