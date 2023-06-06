@@ -123,7 +123,7 @@ I started my professional career three years ago, and I worked for various clien
   Project: Anticipo Fatturi <br>
   -Build reactive front end components using Angular Js, HTML 5, and CSS 3 <br>
   -Debug Angular Js and JavaScript <br>
-  -Interacte with source code using Git, GitLab and Linux terminal <br>
+  -Interact with source code using Git, GitLab and Linux terminal <br>
   -Implement Git Flow <br>
   -Investigate and solve common bugs and errors <br>
 <br>
@@ -156,7 +156,7 @@ I started my professional career three years ago, and I worked for various clien
   -Fix bugs, code smells and security hotspots detected by SonarQube <br>
   -Implement test driven development <br>
   -Particapate in all Scrum events <br>
-  -Maintaine old React applications <br>
+  -Maintain old React applications <br>
   -Fix incidents reported by the client <br>
   -Report daily and weekly to product owner and manager <br>
 <br>
