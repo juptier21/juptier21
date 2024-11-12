@@ -2,7 +2,7 @@
 
 Hello World, my name is Hamza El Kessire and I am a web developer.
 
-I started my professional career three years ago, and I worked for various clients from multiple sectors.
+I started my professional career four years ago, and I worked for various clients from multiple sectors.
 
 - 📌 **REMOTE WORKER**
 
